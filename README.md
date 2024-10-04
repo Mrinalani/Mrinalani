@@ -1,6 +1,6 @@
 # Hi there, I'm Mrinalani! 👋
 
-![Header](https://user-images.githubusercontent.com/your-image-link/banner.gif)
+![Header](https://user-images.githubusercontent.com/[your-image-link](https://avatars.githubusercontent.com/u/130680911?v=4)/banner.gif)
 
 I'm a **Full Stack Developer** with a passion for coding and creating dynamic web applications. My expertise lies in the **MERN stack** (MongoDB, Express, React, and Node.js), and I enjoy building scalable, user-friendly solutions.
 
@@ -8,7 +8,7 @@ I'm a **Full Stack Developer** with a passion for coding and creating dynamic we
 
 ## 🌱 Currently Learning
 
-![Learning GIF](https://user-images.githubusercontent.com/your-image-link/learning.gif)
+![Learning GIF](https://user-images.githubusercontent.com/[your-image-link](https://avatars.githubusercontent.com/u/130680911?v=4)/learning.gif)
 
 I'm continuously improving my skills in the MERN stack and exploring new technologies to stay updated with the latest in web development.
 
@@ -33,8 +33,8 @@ I'm continuously improving my skills in the MERN stack and exploring new technol
 
 ## 📊 GitHub Stats
 
-![Mrinalani's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Mrinalani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinalani&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinalani&layout=compact&theme=radical)
 
 ---
 
