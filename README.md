@@ -8,8 +8,6 @@ I'm a **Full Stack Developer** with a passion for coding and creating dynamic we
 
 ## 🌱 Currently Learning
 
-![Learning GIF](https://avatars.githubusercontent.com/u/130680911?v=4)
-
 I'm continuously improving my skills in the MERN stack and exploring new technologies to stay updated with the latest in web development.
 
 ---
