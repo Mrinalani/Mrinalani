@@ -40,11 +40,6 @@ Feel free to reach out to me!
 [![Email Badge](https://img.shields.io/badge/Email-pandeymrinalani02@gmail.com-red?style=for-the-badge)](mailto:pandeymrinalani02@gmail.com)
 
 ---
-
-![Footer GIF](https://user-images.githubusercontent.com/https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&w=800/footer.gif)
-
-
-
 <!---
 Mrinalani/Mrinalani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
