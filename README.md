@@ -1,7 +1,5 @@
 # Hi there, I'm Mrinalani! 👋
 
-![Header](https://avatars.githubusercontent.com/u/130680911?v=4)
-
 I'm a **Full Stack Developer** with a passion for coding and creating dynamic web applications. My expertise lies in the **MERN stack** (MongoDB, Express, React, and Node.js), and I enjoy building scalable, user-friendly solutions.
 
 ---
