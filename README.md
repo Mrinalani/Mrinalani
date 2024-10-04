@@ -29,7 +29,7 @@ I'm continuously improving my skills in the MERN stack and exploring new technol
 
 ## 📊 GitHub Stats
 
-![Mrinalani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinalani&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinalani&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinalani&layout=compact&theme=radical)
 
 ---
@@ -41,7 +41,7 @@ Feel free to reach out to me!
 
 ---
 
-![Footer GIF](https://user-images.githubusercontent.com/your-image-link/footer.gif)
+![Footer GIF](https://user-images.githubusercontent.com/https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&w=800/footer.gif)
 
 
 
